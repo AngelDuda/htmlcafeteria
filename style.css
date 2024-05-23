@@ -1,0 +1,89 @@
+.herader{
+    background-color: rgb(146, 122, 90);
+    font-family: "Great Vibes";
+    display: flex;
+    justify-content: center;
+    height: 15%;
+    border-style:dotted ;
+    text-shadow: 10px 0px 0px rgb(136, 100, 49);
+
+    
+    
+
+
+
+}
+
+.titulo{
+    justify-content: center;
+    font-size: larger;
+
+
+
+}
+
+body{
+    background-color: rgb(252, 233, 207);
+}
+
+.texto{
+    font-family: "Great Vibes";
+    margin-left: 50px;
+    margin-top: 3vw;
+    font-size: larger;
+    
+    
+}
+
+.marginborda{
+    border-style:groove;
+    border-color: rgb(43, 34, 22);
+
+
+
+
+
+
+}
+
+.imagens{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 4vw;
+    font-family:"Great Vibes" ;
+    font-size: 1vw;
+    
+
+
+
+}
+
+.imagens1{
+    height:33%;
+    width:33%;
+    margin-left: 14vw;
+
+}
+
+.imagens2{
+    height:100%;
+    width: 33%;
+    
+    
+
+}
+
+.imagens3{
+    height: 30%;
+    width: 33%;
+    
+}
+
+.imagens4{
+    height: 30%;
+    width: 30%;
+    
+}
+
+
